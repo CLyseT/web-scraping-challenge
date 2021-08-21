@@ -14,4 +14,6 @@ Mars Facts
 - Use Pandas to convert the data to a HTML table string: Cell 40
 
 Mars Hemispheres
-- Append the dictionary with the image url string and the hemisphere title to a list. This list will contain one dictionary for each hemisphere: Cell 41
+- Append the dictionary with the image url string and the hemisphere title to a list. This list will contain one dictionary for each hemisphere: Cell 50
+
+
