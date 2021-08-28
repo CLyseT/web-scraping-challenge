@@ -1,6 +1,5 @@
 # Web-Scraping-Challenge
 
-# Step 1 - Scraping
 Create a Jupyter Notebook file called mission_to_mars.ipynb - Can be found in the Mission_To_Mars folder.
 
 NASA Mars News
