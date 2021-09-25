@@ -16,3 +16,5 @@ Mars Hemispheres
 - Append the dictionary with the image url string and the hemisphere title to a list. This list will contain one dictionary for each hemisphere: Cell 50
 
 
+UPDATED HOMEWORK - FOUND IN UPDATED FOLDER
+
