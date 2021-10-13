@@ -1,5 +1,7 @@
 # Web-Scraping-Challenge
 
+UPDATED HOMEWORK - FOUND IN UPDATED FOLDER
+
 Create a Jupyter Notebook file called mission_to_mars.ipynb - Can be found in the Mission_To_Mars folder.
 
 NASA Mars News
@@ -16,5 +18,5 @@ Mars Hemispheres
 - Append the dictionary with the image url string and the hemisphere title to a list. This list will contain one dictionary for each hemisphere: Cell 50
 
 
-UPDATED HOMEWORK - FOUND IN UPDATED FOLDER
+
 
